@@ -1,5 +1,6 @@
 Hi I'm Talha 👋
 
+- I'm student in Atilim
 - 🔭 I’m currently working on C
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:
