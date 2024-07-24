@@ -1,6 +1,6 @@
 Hi I'm Talha 👋
 
-- I'm student in Atilim
+- I'm student at Atilim University as a computer engineer
 - 🔭 I’m currently working on C
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:
